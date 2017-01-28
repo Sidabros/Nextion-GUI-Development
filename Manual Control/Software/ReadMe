@@ -1,7 +1,3 @@
-For Nextion Library : 
-https://github.com/Sidabros/ITEADLIB_Arduino_Nextion
-
-
 Important !
 
 If you are going to use SoftwareSerial for Arduino Uno, you need to add these lines in NexConfig.h file:
@@ -13,3 +9,12 @@ extern SoftwareSerial HMISerial;
 For arduino code we add these lines:
 #include "Nextion.h"
 SoftwareSerial HMISerial(10,11);
+
+Also you can disable debug serial for Nextion screen by editing NexConfig.h file:
+* Define DEBUG_SERIAL_ENABLE to enable debug serial. 
+ * Comment it to disable debug serial. 
+ */
+//#define DEBUG_SERIAL_ENABLE
+
+For Nextion Library : 
+https://github.com/Sidabros/ITEADLIB_Arduino_Nextion
