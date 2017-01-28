@@ -39,8 +39,8 @@ NexText t2 = NexText(0, 3, "t2"); /* Soil Moist Text Transmitting information*/
 
 /* Nextion Control Units For Picture Buttons */
 NexPicture pumpPic = NexPicture(2, 1, "p1");    /* Nextion Picture information for DC Pump */
-NexPicture lightPic = NexPicture(4, 1, "p1");   /* Nextion Picture information for LED Light */
-NexPicture fanPic = NexPicture(5, 1, "p1");     /* Nextion Picture information for DC Fan*/
+NexPicture lightPic = NexPicture(3, 1, "p1");   /* Nextion Picture information for LED Light */
+NexPicture fanPic = NexPicture(4, 1, "p1");     /* Nextion Picture information for DC Fan*/
 NexButton homeButton = NexButton(1, 1, "b0");
 
 /* Page Set Components */
