@@ -7,7 +7,7 @@
      DHT11 Sensor Pin Digital 2
      
      20.12.2016
-     M.Murat Akcayigit
+     by M.Murat Akcayigit
  */
                                                
 
