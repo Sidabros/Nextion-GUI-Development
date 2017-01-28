@@ -1,2 +1,15 @@
 For Nextion Library : 
 https://github.com/Sidabros/ITEADLIB_Arduino_Nextion
+
+
+Important !
+
+If you are going to use SoftwareSerial for Arduino Uno, you need to add these lines in NexConfig.h file:
+
+#include <SoftwareSerial.h>
+extern SoftwareSerial HMISerial;
+#define nexSerial HMISerial
+
+For arduino code we add these lines:
+#include "Nextion.h"
+SoftwareSerial HMISerial(10,11);
