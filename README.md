@@ -6,6 +6,8 @@ Brief footage of the system can be seen through "InShot_20161226.mp4" video file
 
 ![alt tag](https://cloud.githubusercontent.com/assets/24646925/22705064/b872fe56-ed72-11e6-8e03-583545a8c529.jpg)
 
+![off-on](https://cloud.githubusercontent.com/assets/24646925/24079613/764a1258-0c94-11e7-93a5-7a7696b2ef7d.jpg)
+
 
 ( Current visuals of video belong to a completed (26.12.2016) term project for an elective course EE0210 by M.Murat AKCAYIGIT and H.Ayberk BULUT. The purpose of the project was to bring plant care at people's fingertips with a friendly user interface.)
 
